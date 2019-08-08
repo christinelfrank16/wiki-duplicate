@@ -1,0 +1,48 @@
+.sidebar {
+  position: absolute;
+  width: 10em;
+  top: 0;
+  left:0;
+}
+
+#wiki {
+  height: 160px;
+  width: auto;
+}
+
+.portal {
+  margin:0px 9.6px 0px 11.2px;
+  padding: 3px 0px;
+  padding: 4px;
+  font-size: 12px;
+}
+.nav-head-text{
+  margin:6px 0px 0px 8px;
+  font-size: 12px;
+  border-bottom: 1px solid grey;
+}
+.portal ul {
+  list-style: none;
+  margin: 0;
+  padding: 4.8px 0px 0px;
+}
+
+.portal li {
+  padding: 1px 0px;
+}
+.content {
+  margin-left: 10em;
+}
+
+.nav-item {
+  display: inline;
+}
+
+#oops li {
+  display: inline;
+
+}
+
+#oops {
+  display: inline;
+}
