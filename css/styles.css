@@ -10,6 +10,26 @@
   width: auto;
 }
 
+.head {
+  font-size: 12px;
+}
+
+#user {
+  width: 12px;
+  padding-top: 0;
+}
+
+#search {
+  position: absolute;
+}
+
+#search-pic {
+  width: 20px;
+  position: absolute;
+  right: 10px;
+  top: 6px;
+}
+
 .portal {
   margin:0px 9.6px 0px 11.2px;
   padding: 3px 0px;
@@ -36,13 +56,9 @@
 
 .nav-item {
   display: inline;
+  padding-right: 2px;
 }
 
-#oops li {
-  display: inline;
-
-}
-
-#oops {
-  display: inline;
+.main {
+  text-align: right;
 }
