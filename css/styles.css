@@ -140,16 +140,16 @@ border-bottom: 1px solid lightblue;
   border: 1px solid #749676;
   padding-top: 3px;
   padding-left: 5px;
+  clear:both;
 }
 
 .bg-success ul{
   float: right;
 }
 
-.bg-success li {
+.bg-success li.inline {
   display: inline-flex;
   font-weight: bold;
-  color: blue;
 }
 .bg-success .bullet:after {
   content: " \25CF ";
@@ -158,6 +158,10 @@ border-bottom: 1px solid lightblue;
   padding-right: 1px;
 }
 
+.mv-right {
+  float: right;
+  padding-bottom: 10px;
+}
 
 #featured-img {
   float: left;
@@ -175,6 +179,7 @@ border-bottom: 1px solid lightblue;
   border: 1px solid #7789a6;
   padding-top: 3px;
   padding-left: 5px;
+  clear: both;
 }
 
 #news-img{
